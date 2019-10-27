@@ -77,13 +77,13 @@ header > h1 {
 
 #user-label {
   position: absolute;
-  top: 0px;
+  top: 5px;
   left: -25px;
 }
 
 #computer-label {
   position: absolute;
-  top: 0px;
+  top: 5px;
   right: -25px;
 }
 
