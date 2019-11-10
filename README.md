@@ -8,4 +8,4 @@ I went back in and challenged myself to create a reset button from scratch, I'm 
 
 Thanks for reading, I may update the color palette and icons later on this project.
 
--jck
+-johncoryk
