@@ -1,4 +1,5 @@
 Rock, paper, scissors game assigned by The Odin Project.
+You can check out the project here: https://johncoryk.github.io/rock-paper-scissors/
 
 10.27.19
 
